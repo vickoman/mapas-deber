@@ -9,32 +9,35 @@ var marcadores = [
     lat: "-2.0854428401758613",
     lng: "-79.91369948534971",
     titulo: "Mi Residencia",
-    descripcion: "Descripción Sobre mi Residencia",
+    descripcion: "Mi Casa",
   },
   {
     lat: "-2.2152765884694707",
     lng: "-79.85464941049143",
     titulo: "Isla Santai",
-    descripcion: "Descripción de la Isla Santai Guayaquil",
+    descripcion:
+      "La isla Santay es una isla ecuatoriana. Se encuentra en el río Guayas y pertenece al cantón Durán. El área de la isla comprende 2.179 hectáreas. Allí radican 56 familias ubicadas en 46 casas.",
   },
   {
     lat: "-2.1456888373969365",
     lng: "-79.96425113949508",
     titulo: "Escuela Superior Politécnica del Litoral",
     descripcion:
-      "Descripción de la Escuela Superior Politécnica del Litoral Campus la Prosperina",
+      "La Escuela Superior Politécnica del Litoral (ESPOL) es una institución pública de educación superior, ubicada en Guayaquil, Ecuador. La ESPOL ha cosechado un gran prestigio en su país demostrando notables esfuerzos en sus ramas de investigación y una constante excelencia académica.",
   },
   {
     lat: "-2.1918329860958616",
     lng: "-79.87942453138852",
     titulo: "Malecón 2000",
-    descripcion: "Descripción del Malecon 2000 Guayaquil",
+    descripcion:
+      "Malecón 2000, ubicado en la ciudad de Guayaquil, junto al río Guayas, fue el nombre del proyecto de regeneración urbana del antiguo Malecón Simón Bolívar,",
   },
   {
     lat: "-2.1021192739419545",
     lng: "-79.89841638394867",
     titulo: "Parque Samanes",
-    descripcion: "Descripción del Parque Samanes Guayaquil",
+    descripcion:
+      "El Parque Samanes, también conocido como Parque Ecológico Samanes, es un parque ubicado en la ciudad de Guayaquil, Ecuador, cuya primera fase fue inaugurada en enero de 2010.1​ En su totalidad cuenta con una extensión de 851 hectáreas, lo que lo convierte en el tercer parque más grande de Latinoamérica, detrás del Parque de Chapultepec en México y el Parque Metropolitano Simón Bolívar en Colombia.",
   },
 ];
 
