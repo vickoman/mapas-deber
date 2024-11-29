@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapas Interactivos | Nadia Lagasca Loayza</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Explorando mis zonas conocidas</h1>
+        <p>Este sitio muestra mapas interactivos de mi ciudad de residencia, lugar de nacimiento y zona de trabajo.</p>
+    </header>
+    <main class="contenedor-base">
+        <section id="residencia">
+            <h2>Ciudad de Residencia</h2>
+            <div id="mapaResidencia" class="mapa"></div>
+        </section>
+        <section id="nacimiento">
+            <h2>Lugar de Nacimiento</h2>
+            <div id="mapaNacimiento" class="mapa"></div>
+        </section>
+        <section id="trabajo">
+            <h2>Zonas de Trabajo</h2>
+            <div id="mapaTrabajo" class="mapa"></div>
+        </section>
+    </main>
+    <script src="scripts_residencia.js"></script>
+    <script src="scripts_nacimiento.js"></script>
+    <script src="scripts_lugar_trabajo.js"></script>
+    <footer>
+        <p>Desarrollado por Nadia Lagasca Loayza</p>
+    </footer>
+</body>
+
+</html>
