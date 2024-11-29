@@ -1,3 +1,6 @@
+/**
+ * @file scripts_residencia.js
+ */
 LAT_GUAYAQUIL = "-2.1867357026717724";
 LONG_GUAYAQUIL = "-79.89781211639658";
 
