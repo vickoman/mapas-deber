@@ -20,9 +20,9 @@ var marcadores = [
   {
     lat: -2.1460751889468765,
     lng: -79.9668414432016,
-    titulo: "Cafeteria Sweeth and Coffee",
+    titulo: "Cafeteria Sweet and Coffee",
     descripcion:
-      "Cafeteria Sweeth and Coffee de la Universidad Politecnica Del Litoral",
+      "Cafeteria Sweet and Coffee de la Universidad Politecnica Del Litoral",
   },
 ];
 
