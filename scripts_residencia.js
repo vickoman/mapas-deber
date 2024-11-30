@@ -14,7 +14,7 @@ var marcadores = [
   {
     lat: "-2.2152765884694707",
     lng: "-79.85464941049143",
-    titulo: "Isla Santai",
+    titulo: "Isla Santay",
     descripcion:
       "La isla Santay es una isla ecuatoriana. Se encuentra en el río Guayas y pertenece al cantón Durán. El área de la isla comprende 2.179 hectáreas. Allí radican 56 familias ubicadas en 46 casas.",
   },
